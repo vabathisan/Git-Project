@@ -6,6 +6,8 @@ public class Normal {
 		
 		System.out.println("vabathisan");
 		System.out.println("thanjavur");
+		System.out.println("sreedharan");
+		System.out.println("tirupur");
 
 	}
 
